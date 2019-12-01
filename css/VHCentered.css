@@ -1,0 +1,12 @@
+
+.content {
+    display: flex;
+    width: 200px;
+    height: 200px;
+    border: 4px solid black;
+}
+
+.content p {
+    margin: auto;
+    background: red;
+}
